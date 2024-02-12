@@ -9,3 +9,14 @@ Juegazo de la PSX y posteriormente de la PSP en un remake fantastico con añadid
 * Aprendiz
 * Químico
 * Monje
+* Samurai
+* Ninja
+* Caballero Oscuro
+* Mago Negro
+* Mago Blanco
+* Mago de Tiempo
+* Invocador
+* Orador
+* Mistico
+* Bailarina
+* Bardo
