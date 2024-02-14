@@ -20,3 +20,5 @@ Juegazo de la PSX y posteriormente de la PSP en un remake fantastico con añadid
 * Mistico
 * Bailarina
 * Bardo
+* Geomancer
+* Cabellero Dragon
